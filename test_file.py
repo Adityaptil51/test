@@ -8,4 +8,4 @@ def test_product_details():
         "price: 199.99"
     )
 
-assert product_details("Headphones", "HP1001", 2, 199.99) == expected_output
+    assert product_details("Headphones", "HP1001", 2, 199.99) == expected_output
